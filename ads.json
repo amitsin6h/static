@@ -1,0 +1,19 @@
+{
+  "advertiser":[
+    {
+    "id":1,
+    "preview": "https://via.placeholder.com/350x120?text=%22Ad%201%22"
+    },
+    {
+    "id":2,
+    "preview": "https://via.placeholder.com/350x120?text=%22Ad%202%22"
+    },
+    {
+    "id":3,
+    "preview": "https://via.placeholder.com/350x120?text=%22Ad%203%22"
+    },
+    {
+    "id":4,
+    "preview": "https://via.placeholder.com/350x120?text=%22Ad%204%22"
+    }]
+}
